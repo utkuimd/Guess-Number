@@ -1,2 +1,3 @@
-# Guess-Number
-Guess number app. You try find the unknown number with as few attempts as possible.
+# Screenshot from my app
+
+<img src="images/wow.PNG" width="100%" height="100%">
